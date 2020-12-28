@@ -1,0 +1,5 @@
+Information about Advent of Code 
+<<<<<<< HEAD
+Programming challenge over the world
+=======
+>>>>>>> 6553b0a (Added Info file)
