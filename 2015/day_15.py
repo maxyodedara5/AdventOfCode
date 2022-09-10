@@ -1,15 +1,5 @@
 # https://adventofcode.com/2015/day/15
 
-
-def read_file(filename):
-    # Read file data from file
-    with open(filename) as file:
-        data = file.readlines()
-    return data
-
-filename = "day_14_input.txt"
-data = read_file(filename)
-
 combos = []
 
 # Need to optimize this instead of bruteforcing
