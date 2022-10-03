@@ -1,3 +1,5 @@
+# https://adventofcode.com/2015/day/17
+
 from itertools import chain, combinations
 
 def read_file(filename):

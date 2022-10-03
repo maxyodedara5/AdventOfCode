@@ -1,3 +1,5 @@
+# https://adventofcode.com/2015/day/18
+
 import numpy as np
 
 def read_file(filename):
